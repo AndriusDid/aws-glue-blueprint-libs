@@ -1,0 +1,11 @@
+# virtual environment
+.venv/
+venv/
+ENV/
+
+# IntelliJ
+/.idea/**/*
+
+# Project Run Configurations
+!/.idea/runConfigurations
+!/.idea/runConfigurations/*.xml
